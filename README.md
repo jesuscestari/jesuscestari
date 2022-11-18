@@ -7,7 +7,7 @@ I'm Jesus Ricardo Cestari, 24 y.o and Full Stack Developer<br>From Buenos Aires,
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jesuscestari&theme=dark&hide_border=false)<br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
